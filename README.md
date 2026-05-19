@@ -7,13 +7,8 @@ monitora quanto ainda falta para atingir o objetivo do dia.
 ---
 ## Interface do Aplicativo
 
-*Adicione aqui os prints da sua interface*
-&lt;div align=&quot;center&quot;&gt;
-&lt;img src=&quot;https://via.placeholder.com/200x400.png?text=Home+HydroGoal&quot;
-width=&quot;200&quot;&gt;
-&lt;img src=&quot;https://via.placeholder.com/200x400.png?text=Resultado+Meta&quot;
-width=&quot;200&quot;&gt;
-&lt;/div&gt;
+<img width="260" height="536" alt="Captura de tela 2026-05-18 215651" src="https://github.com/user-attachments/assets/fda4b86b-b166-4628-8043-8e15c29fdaf2" />
+
 ---
 ## Regras de Negócio
 1. **Consumo Base:** 35ml de água para cada kg de peso corporal.
