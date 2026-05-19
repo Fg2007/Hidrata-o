@@ -1,6 +1,6 @@
 Controle de Hidratação Diária
 ## Descrição do Projeto
-O **HydroGoal** é um aplicativo Android desenvolvido para ajudar usuários a
+O **Hidratation** é um aplicativo Android desenvolvido para ajudar usuários a
 manterem hábitos saudáveis de hidratação. Com base no peso corporal e nível
 de atividade física, o app calcula a meta ideal de ingestão de água e
 monitora quanto ainda falta para atingir o objetivo do dia.
